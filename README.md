@@ -575,7 +575,6 @@ Contains two alternative helper functions used in earlier experiments:
 - [x] Collaborative filtering (KNN on user-movie matrix)
 - [x] Hybrid recommendation (combined output)
 - [x] CLI interface with menu
-- [x] Streamlit web app
 - [x] Dataset merging pipeline (`merge_data.py`)
 - [x] Data cleaning pipeline (`data_cleaning.py`)
 - [x] Model training and saving with pickle
