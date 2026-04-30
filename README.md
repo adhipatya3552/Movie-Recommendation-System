@@ -580,12 +580,12 @@ Contains two alternative helper functions used in earlier experiments:
 - [x] Data cleaning pipeline (`data_cleaning.py`)
 - [x] Model training and saving with pickle
 - [x] EDA notebook
+- [x] Deploy the Streamlit app on Streamlit Cloud
 - [ ] Add collaborative and hybrid modes to the Streamlit app
 - [ ] Add movie poster images in the web UI (via TMDB API)
 - [ ] Matrix Factorization (SVD) for better accuracy
 - [ ] User-based recommendation (not just item-based)
 - [ ] Search bar with fuzzy matching for movie titles
-- [ ] Deploy the Streamlit app on Streamlit Cloud
 
 ---
 
