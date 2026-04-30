@@ -579,6 +579,7 @@ Contains two alternative helper functions used in earlier experiments:
 - [x] Data cleaning pipeline (`data_cleaning.py`)
 - [x] Model training and saving with pickle
 - [x] EDA notebook
+- [x] Streamlit web app
 - [ ] Add collaborative and hybrid modes to the Streamlit app
 - [ ] Add movie poster images in the web UI (via TMDB API)
 - [ ] Matrix Factorization (SVD) for better accuracy
